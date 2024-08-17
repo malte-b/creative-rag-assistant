@@ -1,0 +1,5 @@
+torch
+ollama
+gradio
+qdrant_client
+dotenv
